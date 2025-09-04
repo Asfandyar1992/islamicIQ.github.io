@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": {
+        "en": "What is the capital of France?",
+        "ur": "فرانس کا دارالحکومت کیا ہے؟",
+        "jp": "フランスの首都はどこですか？"
+      },
+      "options": {
+        "en": ["Paris", "London", "Berlin", "Madrid"],
+        "ur": ["پیرس", "لندن", "برلن", "میڈرڈ"],
+        "jp": ["パリ", "ロンドン", "ベルリン", "マドリード"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 2,
+      "questionText": {
+        "en": "Which planet is known as the Red Planet?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Earth", "Mars", "Venus", "Jupiter"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 1
+    }
+  ]
+}
