@@ -3,40 +3,40 @@
     {
       "id": 1,
       "questionText": {
-        "en": "Which sahaba did Prophet Muhammad (ﷺ) help to become free from being a slave by planting 300+ date palm trees?",
+        "en": "Who is Allah's final Messenger?",
         "ur": "فرانس کا دارالحکومت کیا ہے؟",
         "jp": "フランスの首都はどこですか？"
       },
       "options": {
-        "en": ["Bilal ibn Rabah (ra)", "Thawban ibn Bujdud (ra)", "Zayd ibn Harisa (ra)", "Salman al Farisi (ra)"],
+        "en": ["Jesus", "Moses", "Muhammad", "Abraham"],
         "ur": ["پیرس", "لندن", "برلن", "میڈرڈ"],
         "jp": ["パリ", "ロンドン", "ベルリン", "マドリード"]
       },
-      "correctAnswerIndex": 4
+      "correctAnswerIndex": 2
     },
     {
       "id": 2,
       "questionText": {
-        "en": "What is the virtue of reciting Ayatul Kursi before going to bed at night to sleep?",
+        "en": "What is Islam's holy book?",
         "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
         "jp": "赤い惑星として知られる惑星は？"
       },
       "options": {
-        "en": ["Takes away hunger", "Gives you strength", "You are protected from harm till sunrise", "House in Jannah"],
+        "en": ["Torah", "Bible", "Quran", "Gospel"],
         "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
         "jp": ["地球", "火星", "金星", "木星"]
       },
-      "correctAnswerIndex": 3
+      "correctAnswerIndex": 2
     },
     {
       "id": 3,
       "questionText": {
-        "en": "Which Prophet (as) had control of the Jinn and was able to talk to animals?",
+        "en": "How many pillars of Islam are there?",
         "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
         "jp": "赤い惑星として知られる惑星は？"
       },
       "options": {
-        "en": ["Sulaiman (as)", "Dawud (as)", "Yunus (as)", "Musa (as)"],
+        "en": ["4", "5", "6", "7"],
         "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
         "jp": ["地球", "火星", "金星", "木星"]
       },
@@ -45,12 +45,12 @@
     {
       "id": 4,
       "questionText": {
-        "en": "What does Zam Zam mean?",
+        "en": "What is fasting month called?",
         "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
         "jp": "赤い惑星として知られる惑星は？"
       },
       "options": {
-        "en": ["Holy water", "Water well", "Stop ✔️", "Drink"],
+        "en": ["Ramadan", "Shawwal", "Dhul Hijjah", "Muharram"],
         "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
         "jp": ["地球", "火星", "金星", "木星"]
       },
@@ -59,12 +59,12 @@
     {
       "id": 5,
       "questionText": {
-        "en": "What 2 things does a person lose if he/she misses Asr salah intentionally?",
+        "en": "Which city is holiest in Islam?",
         "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
         "jp": "赤い惑星として知られる惑星は？"
       },
       "options": {
-        "en": ["Friends", "Family", "Property", "Time"],
+        "en": ["Mecca", "Family", "Jerusalem", "Baghdad"],
         "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
         "jp": ["地球", "火星", "金星", "木星"]
       },
