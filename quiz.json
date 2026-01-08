@@ -4,351 +4,1702 @@
       "id": 1,
       "questionText": {
         "en": "Who is Allah's final Messenger?",
-        "ur": "فرانس کا دارالحکومت کیا ہے؟",
-        "jp": "フランスの首都はどこですか？"
+        "ur": "اللہ کے آخری رسول کون ہیں؟",
+        "jp": "アッラーの最後の使徒は誰ですか？",
+        "ar": "من هو رسول الله الأخير؟"
       },
       "options": {
         "en": ["Jesus", "Moses", "Muhammad", "Abraham"],
-        "ur": ["پیرس", "لندن", "برلن", "میڈرڈ"],
-        "jp": ["パリ", "ロンドン", "ベルリン", "マドリード"]
+        "ur": ["عیسیٰ", "موسیٰ", "محمد ﷺ", "ابراہیم"],
+        "jp": ["イエス", "モーセ", "ムハンマド ﷺ", "アブラハム"],
+        "ar": ["عيسى", "موسى", "محمد ﷺ", "إبراهيم"]
       },
-      "correctAnswerIndex": 2
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com/33/40"
     },
     {
       "id": 2,
       "questionText": {
-        "en": "What is Islam's holy book?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is Islam’s holy book?",
+        "ur": "اسلام کی مقدس کتاب کون سی ہے؟",
+        "jp": "イスラム教の聖典は何ですか？",
+        "ar": "ما هو الكتاب المقدس في الإسلام؟"
       },
       "options": {
-        "en": ["Torah", "Bible", "Quran", "Gospel"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Torah", "Bible", "Qur'an", "Gospel"],
+        "ur": ["تورات", "انجیل", "قرآن", "زبور"],
+        "jp": ["トーラー", "聖書", "クルアーン", "福音書"],
+        "ar": ["التوراة", "الإنجيل", "القرآن", "الزبور"]
       },
-      "correctAnswerIndex": 2
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com/2/2"
     },
     {
       "id": 3,
       "questionText": {
         "en": "How many pillars of Islam are there?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "ur": "اسلام کے کتنے ستون ہیں؟",
+        "jp": "イスラム教の柱はいくつありますか？",
+        "ar": "كم عدد أركان الإسلام؟"
       },
       "options": {
         "en": ["4", "5", "6", "7"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "ur": ["4", "5", "6", "7"],
+        "jp": ["4", "5", "6", "7"],
+        "ar": ["4", "5", "6", "7"]
       },
-      "correctAnswerIndex": 1
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://sunnah.com/muslim:16"
     },
     {
       "id": 4,
       "questionText": {
-        "en": "What is fasting month called?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "In which month do Muslims fast?",
+        "ur": "مسلمان کس مہینے میں روزے رکھتے ہیں؟",
+        "jp": "ムスリムはどの月に断食しますか？",
+        "ar": "في أي شهر يصوم المسلمون؟"
       },
       "options": {
         "en": ["Ramadan", "Shawwal", "Dhul Hijjah", "Muharram"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "ur": ["رمضان", "شوال", "ذوالحجہ", "محرم"],
+        "jp": ["ラマダン", "シャウワール", "ズルヒッジャ", "ムハッラム"],
+        "ar": ["رمضان", "شوال", "ذو الحجة", "محرم"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/183"
     },
     {
       "id": 5,
       "questionText": {
-        "en": "Which city is holiest in Islam?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "Where is the Ka‘bah located?",
+        "ur": "کعبہ کہاں واقع ہے؟",
+        "jp": "カアバ神殿はどこにありますか？",
+        "ar": "أين تقع الكعبة؟"
       },
       "options": {
         "en": ["Mecca", "Medina", "Jerusalem", "Baghdad"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "ur": ["مکہ", "مدینہ", "یروشلم", "بغداد"],
+        "jp": ["メッカ", "メディナ", "エルサレム", "バグダッド"],
+        "ar": ["مكة", "المدينة", "القدس", "بغداد"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/125"
     },
     {
       "id": 6,
       "questionText": {
-        "en": "Who built Kaaba?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is the declaration of faith called?",
+        "ur": "کلمۂ شہادت کو کیا کہتے ہیں؟",
+        "jp": "信仰告白は何と呼ばれますか？",
+        "ar": "ما اسم شهادة التوحيد؟"
       },
       "options": {
-        "en": ["Abraham", "Muhammad", "Adam", "Noah"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Salah", "Zakat", "Shahadah", "Hajj"],
+        "ur": ["نماز", "زکوٰۃ", "شہادت", "حج"],
+        "jp": ["礼拝（サラー）", "ザカート", "シャハーダ", "ハッジ"],
+        "ar": ["الصلاة", "الزكاة", "الشهادة", "الحج"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://sunnah.com/muslim:22"
     },
     {
       "id": 7,
       "questionText": {
-        "en": "What is prayer called in Arabic?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "How many obligatory prayers (Salah) are there each day?",
+        "ur": "روزانہ فرض نمازیں کتنی ہیں؟",
+        "jp": "1日に義務の礼拝は何回ありますか？",
+        "ar": "كم عدد الصلوات المفروضة في اليوم؟"
       },
       "options": {
-        "en": ["Fasting", "Zakat", "Salat", "Hajj"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["3", "4", "5", "6"],
+        "ur": ["3", "4", "5", "6"],
+        "jp": ["3", "4", "5", "6"],
+        "ar": ["3", "4", "5", "6"]
       },
-      "correctAnswerIndex": 2
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://sunnah.com/muslim:162"
     },
     {
       "id": 8,
       "questionText": {
-        "en": "How many times pray daily?" ,
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "Which angel brought revelation to the Prophet Muhammad ﷺ?",
+        "ur": "کون سا فرشتہ نبی ﷺ پر وحی لاتا تھا؟",
+        "jp": "預言者ムハンマド ﷺ に啓示をもたらした天使は誰ですか？",
+        "ar": "أيُّ مَلَكٍ نَزَلَ بالوحي على النبي ﷺ؟"
       },
       "options": {
-        "en": ["3", "4", "5", "6"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Israfil", "Mikail", "Jibreel (Gabriel)", "Malik"],
+        "ur": ["اسرافیل", "میکائیل", "جبرائیلؑ", "مالک"],
+        "jp": ["イスラフィール", "ミーカール", "ジブリール（ガブリエル）", "マーリク"],
+        "ar": ["إسرافيل", "ميكائيل", "جبريل", "مالك"]
       },
-      "correctAnswerIndex": 2
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com/2/97"
     },
     {
       "id": 9,
       "questionText": {
-        "en": "What breaks fasting?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "How many Surahs are in the Qur’an?",
+        "ur": "قرآن میں کتنی سورتیں ہیں؟",
+        "jp": "クルアーンには章（スーラ）はいくつありますか？",
+        "ar": "كم عدد سور القرآن؟"
       },
       "options": {
-        "en": ["Sleeping", "Eating/Drinking", "Praying", "Reading Quran"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["112", "113", "114", "115"],
+        "ur": ["112", "113", "114", "115"],
+        "jp": ["112", "113", "114", "115"],
+        "ar": ["112", "113", "114", "115"]
       },
-      "correctAnswerIndex": 1
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com"
     },
     {
       "id": 10,
       "questionText": {
-        "en": "Who is Muhammad's (PBUH) daughter?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "Which prayer is performed at dawn?",
+        "ur": "فجر کی نماز کب ادا کی جاتی ہے؟",
+        "jp": "夜明けに行う礼拝はどれですか？",
+        "ar": "أي صلاة تُؤدَّى وقت الفجر؟"
       },
       "options": {
-        "en": ["Fatima", "Aisha", "Khadija", "Maryam"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Fajr", "Dhuhr", "Asr", "Maghrib"],
+        "ur": ["فجر", "ظہر", "عصر", "مغرب"],
+        "jp": ["ファジュル", "ズフル", "アスル", "マグリブ"],
+        "ar": ["الفجر", "الظهر", "العصر", "المغرب"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/24/58"
     },
     {
       "id": 11,
       "questionText": {
-        "en": "What is charity called in Arabic?" ,
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is charity (obligatory almsgiving) called?",
+        "ur": "فرض صدقہ کو کیا کہتے ہیں؟",
+        "jp": "義務の喜捨は何と呼ばれますか？",
+        "ar": "ما اسم الصدقة الواجبة؟"
       },
       "options": {
-        "en": ["Sadaqah", "Zakat", "Salat", "Hajj"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Sadaqah", "Zakat", "Hajj", "Umrah"],
+        "ur": ["صدقہ", "زکوٰۃ", "حج", "عمرہ"],
+        "jp": ["サダカ", "ザカート", "ハッジ", "ウムラ"],
+        "ar": ["صدقة", "زكاة", "حج", "عمرة"]
       },
-      "correctAnswerIndex": 1
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/9/60"
     },
     {
       "id": 12,
       "questionText": {
-        "en": "How many days in Ramadan fasting?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is the first Surah of the Qur’an called?",
+        "ur": "قرآن کی پہلی سورت کا نام کیا ہے؟",
+        "jp": "クルアーンの最初のスーラは何ですか？",
+        "ar": "ما اسم أول سورة في القرآن؟"
       },
       "options": {
-        "en": ["29-30", "30-31", "28", "32"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Al-Fatihah", "Al-Baqarah", "Al-Ikhlas", "An-Nas"],
+        "ur": ["الفاتحہ", "البقرہ", "الإخلاص", "الناس"],
+        "jp": ["アル＝ファーティハ", "アル＝バカラ", "アル＝イクラス", "アン＝ナース"],
+        "ar": ["الفاتحة", "البقرة", "الإخلاص", "الناس"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/1"
     },
     {
       "id": 13,
       "questionText": {
         "en": "What is Eid after Ramadan called?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "ur": "رمضان کے بعد عید کو کیا کہتے ہیں؟",
+        "jp": "ラマダン後のイードは何と呼ばれますか？",
+        "ar": "ما اسم العيد الذي يأتي بعد رمضان؟"
       },
       "options": {
-        "en": ["Eid ul Fitr", "Eid ul Adha", "Eid ul Milad", "Eid ul Shuja"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Eid al-Fitr", "Eid al-Adha", "Eid Milad", "Laylat al-Qadr"],
+        "ur": ["عید الفطر", "عید الاضحی", "عید میلاد", "لیلۃ القدر"],
+        "jp": ["イード・アル＝フィトル", "イード・アル＝アドハー", "イード・ミーラード", "ライラトゥル＝カドル"],
+        "ar": ["عيد الفطر", "عيد الأضحى", "عيد المولد", "ليلة القدر"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/185"
     },
     {
       "id": 14,
       "questionText": {
-        "en": "Who wrote Quran down?" ,
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "Which city is known as the city of the Prophet ﷺ?",
+        "ur": "نبی ﷺ کے شہر کے نام سے کون سا شہر معروف ہے؟",
+        "jp": "預言者 ﷺ の町として知られる都市はどこですか？",
+        "ar": "أي مدينة تُعرف بمدينة النبي ﷺ؟"
       },
       "options": {
-        "en": ["Abu Bakr", "Umar", "Uthman", "Zayd bin Thabit"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Mecca", "Medina", "Taif", "Jerusalem"],
+        "ur": ["مکہ", "مدینہ", "طائف", "یروشلم"],
+        "jp": ["メッカ", "メディナ", "ターイフ", "エルサレム"],
+        "ar": ["مكة", "المدينة", "الطائف", "القدس"]
       },
-      "correctAnswerIndex": 3
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/9/101"
     },
     {
       "id": 15,
       "questionText": {
-        "en": "What is Islam's first pillar?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is the pilgrimage to Mecca called?",
+        "ur": "مکہ کی زیارت (فرض حج) کو کیا کہتے ہیں؟",
+        "jp": "メッカへの巡礼は何と呼ばれますか？",
+        "ar": "ما اسم الحج إلى مكة؟"
       },
       "options": {
-        "en": ["Salat", "Zakat", "Shahada", "Sawm"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Zakat", "Hajj", "Sawm", "Salah"],
+        "ur": ["زکوٰۃ", "حج", "روزہ", "نماز"],
+        "jp": ["ザカート", "ハッジ", "サウム（断食）", "サラー（礼拝）"],
+        "ar": ["الزكاة", "الحج", "الصوم", "الصلاة"]
       },
-      "correctAnswerIndex": 2
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/3/97"
     },
     {
       "id": 16,
       "questionText": {
-        "en": "Who is considered Islam's greatest enemy?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "Which direction do Muslims face during prayer?",
+        "ur": "نماز میں مسلمان کس سمت رخ کرتے ہیں؟",
+        "jp": "礼拝の時、ムスリムはどの方向を向きますか？",
+        "ar": "إلى أي اتجاه يتوجه المسلمون في الصلاة؟"
       },
       "options": {
-        "en": ["Abu Lahab", "Abu Jahl", "Pharaoh", "Satan"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Toward the Ka‘bah", "Toward the sun", "Toward Medina", "Toward Mount Sinai"],
+        "ur": ["کعبہ کی طرف", "سورج کی طرف", "مدینہ کی طرف", "طور سینا کی طرف"],
+        "jp": ["カアバの方向", "太陽の方向", "メディナの方向", "シナイ山の方向"],
+        "ar": ["نحو الكعبة", "نحو الشمس", "نحو المدينة", "نحو جبل سيناء"]
       },
-      "correctAnswerIndex": 3
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/144"
     },
     {
       "id": 17,
       "questionText": {
-        "en": "How many rakats in Maghrib prayer?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is the special night in Ramadan called?",
+        "ur": "رمضان کی خاص رات کو کیا کہتے ہیں؟",
+        "jp": "ラマダンの特別な夜は何と呼ばれますか？",
+        "ar": "ما اسم الليلة الخاصة في رمضان؟"
       },
       "options": {
-        "en": ["2", "3", "4", "5"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Laylat al-Qadr", "Laylat al-Miraj", "Laylat al-Barat", "Laylat al-Jumu‘ah"],
+        "ur": ["لیلۃ القدر", "لیلۃ المعراج", "لیلۃ البراءت", "جمعہ کی رات"],
+        "jp": ["ライラトゥル＝カドル", "ライラトゥル＝ミラージュ", "ライラトゥル＝バラーアト", "金曜の夜"],
+        "ar": ["ليلة القدر", "ليلة المعراج", "ليلة البراءة", "ليلة الجمعة"]
       },
-      "correctAnswerIndex": 1
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/97/1-5"
     },
     {
       "id": 18,
       "questionText": {
-        "en": "What is Quran's first surah called?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "How many Rak‘ahs are in Maghrib prayer (farḍ)?",
+        "ur": "مغرب کی فرض نماز میں کتنی رکعتیں ہیں؟",
+        "jp": "マグリブの義務礼拝（ファルド）は何ラカアトですか？",
+        "ar": "كم عدد ركعات صلاة المغرب (الفرض)؟"
       },
       "options": {
-        "en": ["Al-Fatihah", "Al-Baqarah", "Al-Imran", "An-Nas"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["2", "3", "4", "5"],
+        "ur": ["2", "3", "4", "5"],
+        "jp": ["2", "3", "4", "5"],
+        "ar": ["2", "3", "4", "5"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://sunnah.com/bukhari:1090"
     },
     {
       "id": 19,
       "questionText": {
-        "en": "Who was Muhammad's (PBUH) first wife?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "Who was the first wife of Prophet Muhammad ﷺ?",
+        "ur": "نبی ﷺ کی پہلی زوجہ کون تھیں؟",
+        "jp": "預言者ムハンマド ﷺ の最初の妻は誰ですか？",
+        "ar": "من كانت أول زوجة للنبي محمد ﷺ؟"
       },
       "options": {
-        "en": ["Khadija", "Aisha", "Hafsa", "Zaynab"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Khadijah", "Aisha", "Hafsa", "Zaynab bint Jahsh"],
+        "ur": ["خدیجہؓ", "عائشہؓ", "حفصہؓ", "زینب بنت جحشؓ"],
+        "jp": ["ハディージャ", "アーイシャ", "ハフサ", "ザイナブ・ビント・ジャフシュ"],
+        "ar": ["خديجة", "عائشة", "حفصة", "زينب بنت جحش"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/bukhari:3815"
     },
     {
       "id": 20,
       "questionText": {
-        "en": "What is Eid prayer called?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "Which animal is mentioned by name in Surah Al-Fil?",
+        "ur": "سورہ الفیل میں کس جانور کا نام آیا ہے؟",
+        "jp": "スーラ・アル＝フィールに名指しで出てくる動物は何ですか？",
+        "ar": "ما الحيوان المذكور بالاسم في سورة الفيل؟"
       },
       "options": {
-        "en": ["Jumuah", "Taraweeh", "Salat ul Eid", "Qiyam ul Layl"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Camel", "Elephant", "Horse", "Lion"],
+        "ur": ["اونٹ", "ہاتھی", "گھوڑا", "شیر"],
+        "jp": ["ラクダ", "象", "馬", "ライオン"],
+        "ar": ["جمل", "فيل", "حصان", "أسد"]
       },
-      "correctAnswerIndex": 2
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/105"
     },
     {
       "id": 21,
       "questionText": {
-        "en": "How many Surahs in Quran?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is the Arabic term for prayer?",
+        "ur": "نماز کا عربی نام کیا ہے؟",
+        "jp": "礼拝のアラビア語は何ですか？",
+        "ar": "ما المصطلح العربي للصلاة؟"
       },
       "options": {
-        "en": ["110", "114", "115", "120"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Sawm", "Salah", "Zakat", "Hajj"],
+        "ur": ["صوم", "صلاۃ", "زکوٰۃ", "حج"],
+        "jp": ["サウム", "サラー", "ザカート", "ハッジ"],
+        "ar": ["صوم", "صلاة", "زكاة", "حج"]
       },
-      "correctAnswerIndex": 1
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/29/45"
     },
     {
       "id": 22,
       "questionText": {
-        "en": "Who was Prophet Muhammad's (PBUH) cousin?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is the Arabic term for fasting?",
+        "ur": "روزے کا عربی نام کیا ہے؟",
+        "jp": "断食のアラビア語は何ですか？",
+        "ar": "ما المصطلح العربي للصيام؟"
       },
       "options": {
-        "en": ["Ali", "Umar", "Abu Bakr", "Uthman"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Sawm", "Salah", "Hajj", "Zakat"],
+        "ur": ["صوم", "صلاۃ", "حج", "زکوٰۃ"],
+        "jp": ["サウム", "サラー", "ハッジ", "ザカート"],
+        "ar": ["صوم", "صلاة", "حج", "زكاة"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/183"
     },
     {
       "id": 23,
       "questionText": {
-        "en": "What is Zakat percentage?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "Which Surah is recited in every Rak‘ah of Salah?",
+        "ur": "نماز کی ہر رکعت میں کون سی سورت پڑھی جاتی ہے؟",
+        "jp": "礼拝の各ラカアトで読まれるスーラはどれですか？",
+        "ar": "أي سورة تُقرأ في كل ركعة من الصلاة؟"
       },
       "options": {
-        "en": ["2%", "2.5%", "5%", "10%"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["Al-Fatihah", "Al-Ikhlas", "Al-Kawthar", "An-Nas"],
+        "ur": ["الفاتحہ", "الإخلاص", "الکوثر", "الناس"],
+        "jp": ["アル＝ファーティハ", "アル＝イクラス", "アル＝カウサル", "アン＝ナース"],
+        "ar": ["الفاتحة", "الإخلاص", "الكوثر", "الناس"]
       },
-      "correctAnswerIndex": 1
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/muslim:394"
     },
     {
       "id": 24,
       "questionText": {
-        "en": "What breaks Wudu?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "How many days is Ramadan usually?",
+        "ur": "رمضان عموماً کتنے دن کا ہوتا ہے؟",
+        "jp": "ラマダンは通常何日ですか？",
+        "ar": "كم يوماً يكون رمضان عادةً؟"
       },
       "options": {
-        "en": ["Sleeping", "Laughing", "Bleeding", "All above"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["28", "29–30", "31", "35"],
+        "ur": ["28", "29–30", "31", "35"],
+        "jp": ["28", "29〜30", "31", "35"],
+        "ar": ["28", "29–30", "31", "35"]
       },
-      "correctAnswerIndex": 3
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://sunnah.com/bukhari:1909"
     },
     {
       "id": 25,
       "questionText": {
-        "en": "What is Islam's last pillar?",
-        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
-        "jp": "赤い惑星として知られる惑星は？"
+        "en": "What is the percentage of Zakat on savings (commonly)?",
+        "ur": "عام طور پر مال پر زکوٰۃ کی شرح کتنی ہے؟",
+        "jp": "貯蓄に対するザカートの一般的な割合は？",
+        "ar": "كم نسبة الزكاة على المال عادةً؟"
       },
       "options": {
-        "en": ["Hajj", "Umrah", "Zakat", "Sadaqah"],
-        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
-        "jp": ["地球", "火星", "金星", "木星"]
+        "en": ["1%", "2.5%", "5%", "10%"],
+        "ur": ["1%", "2.5%", "5%", "10%"],
+        "jp": ["1%", "2.5%", "5%", "10%"],
+        "ar": ["1%", "2.5%", "5%", "10%"]
       },
-      "correctAnswerIndex": 0
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://sunnah.com/bukhari:1454"
+    },
+    {
+      "id": 26,
+      "questionText": {
+        "en": "What is the weekly congregational prayer called?",
+        "ur": "ہفتہ وار جماعت کی نماز کو کیا کہتے ہیں؟",
+        "jp": "週に一度の合同礼拝は何と呼ばれますか？",
+        "ar": "ما اسم صلاة الجماعة الأسبوعية؟"
+      },
+      "options": {
+        "en": ["Jumu‘ah", "Taraweeh", "Witr", "Duha"],
+        "ur": ["جمعہ", "تراویح", "وتر", "چاشت"],
+        "jp": ["ジュムア", "タラウィーフ", "ウィトル", "ドゥハー"],
+        "ar": ["الجمعة", "التراويح", "الوتر", "الضحى"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/62/9"
+    },
+    {
+      "id": 27,
+      "questionText": {
+        "en": "What is the name of the well near the Ka‘bah?",
+        "ur": "کعبہ کے قریب کنویں کا نام کیا ہے؟",
+        "jp": "カアバの近くにある井戸の名前は？",
+        "ar": "ما اسم البئر القريب من الكعبة؟"
+      },
+      "options": {
+        "en": ["Zamzam", "Kawthar", "Salsabil", "Barakah"],
+        "ur": ["زمزم", "کوثر", "سلسبیل", "برکہ"],
+        "jp": ["ザムザム", "カウサル", "サルサビール", "バラカ"],
+        "ar": ["زمزم", "الكوثر", "سلسبيل", "بركة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/muslim:2473"
+    },
+    {
+      "id": 28,
+      "questionText": {
+        "en": "Which Surah is the longest in the Qur’an?",
+        "ur": "قرآن کی سب سے طویل سورت کون سی ہے؟",
+        "jp": "クルアーンで最も長いスーラはどれですか？",
+        "ar": "ما أطول سورة في القرآن؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "Aal ‘Imran", "An-Nisa", "Al-Ma’idah"],
+        "ur": ["البقرہ", "آل عمران", "النساء", "المائدہ"],
+        "jp": ["アル＝バカラ", "アール・イムラーン", "アン＝ニサー", "アル＝マーイダ"],
+        "ar": ["البقرة", "آل عمران", "النساء", "المائدة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2"
+    },
+    {
+      "id": 29,
+      "questionText": {
+        "en": "Which Surah is the shortest in the Qur’an?",
+        "ur": "قرآن کی سب سے چھوٹی سورت کون سی ہے؟",
+        "jp": "クルアーンで最も短いスーラはどれですか？",
+        "ar": "ما أقصر سورة في القرآن؟"
+      },
+      "options": {
+        "en": ["Al-Kawthar", "Al-Asr", "Al-Ikhlas", "Al-Falaq"],
+        "ur": ["الکوثر", "العصر", "الإخلاص", "الفلق"],
+        "jp": ["アル＝カウサル", "アル＝アスル", "アル＝イクラス", "アル＝ファラク"],
+        "ar": ["الكوثر", "العصر", "الإخلاص", "الفلق"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/108"
+    },
+    {
+      "id": 30,
+      "questionText": {
+        "en": "What is the first pillar of Islam?",
+        "ur": "اسلام کا پہلا ستون کیا ہے؟",
+        "jp": "イスラムの第一の柱は何ですか？",
+        "ar": "ما الركن الأول من أركان الإسلام؟"
+      },
+      "options": {
+        "en": ["Salah", "Zakat", "Shahadah", "Sawm"],
+        "ur": ["نماز", "زکوٰۃ", "شہادت", "روزہ"],
+        "jp": ["礼拝（サラー）", "ザカート", "シャハーダ", "断食（サウム）"],
+        "ar": ["الصلاة", "الزكاة", "الشهادة", "الصوم"]
+      },
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://sunnah.com/muslim:16"
+    },
+
+    {
+      "id": 31,
+      "questionText": {
+        "en": "How long did Prophet Nuh (Noah) عليه السلام preach to his people?",
+        "ur": "حضرت نوحؑ نے اپنی قوم میں کتنے سال تبلیغ کی؟",
+        "jp": "預言者ヌーフ（ノア） عليه السلام は民に何年 دعوتしましたか？",
+        "ar": "كم لبث نوح عليه السلام في قومه يدعوهم؟"
+      },
+      "options": {
+        "en": ["400 years", "950 years", "1200 years", "70 years"],
+        "ur": ["400 سال", "950 سال", "1200 سال", "70 سال"],
+        "jp": ["400年", "950年", "1200年", "70年"],
+        "ar": ["400 سنة", "950 سنة", "1200 سنة", "70 سنة"]
+      },
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/29/14"
+    },
+    {
+      "id": 32,
+      "questionText": {
+        "en": "What was the first revealed word/command in the Qur’an?",
+        "ur": "قرآن میں نازل ہونے والا پہلا حکم/لفظ کیا تھا؟",
+        "jp": "クルアーンで最初に啓示された命令（語）は何ですか？",
+        "ar": "ما أول أمر/كلمة نزلت في القرآن؟"
+      },
+      "options": {
+        "en": ["Pray", "Read", "Fast", "Give charity"],
+        "ur": ["نماز پڑھو", "پڑھو", "روزہ رکھو", "صدقہ دو"],
+        "jp": ["礼拝せよ", "読め", "断食せよ", "施しをせよ"],
+        "ar": ["صلِّ", "اقرأ", "صُم", "تصدق"]
+      },
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/96/1"
+    },
+    {
+      "id": 33,
+      "questionText": {
+        "en": "Which companion was known by the title “As-Siddiq”?",
+        "ur": "کس صحابی کو “الصديق” کہا جاتا تھا؟",
+        "jp": "「アッ＝シッディーク」という称号で知られる教友は誰ですか？",
+        "ar": "من الصحابي المعروف بلقب «الصديق»؟"
+      },
+      "options": {
+        "en": ["Umar ibn Al-Khattab", "Abu Bakr", "Uthman ibn Affan", "Ali ibn Abi Talib"],
+        "ur": ["عمر بن خطابؓ", "ابوبکرؓ", "عثمان بن عفانؓ", "علی بن ابی طالبؓ"],
+        "jp": ["ウマル", "アブー・バクル", "ウスマーン", "アリー"],
+        "ar": ["عمر بن الخطاب", "أبو بكر", "عثمان بن عفان", "علي بن أبي طالب"]
+      },
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://sunnah.com/bukhari:3671"
+    },
+    {
+      "id": 34,
+      "questionText": {
+        "en": "Which Surah is known as the heart of the Qur’an?",
+        "ur": "قرآن کی دل کہلانے والی سورت کون سی ہے؟",
+        "jp": "クルアーンの心と呼ばれるスーラはどれですか？",
+        "ar": "ما السورة التي تُسمى قلب القرآن؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "Ya-Sin", "Ar-Rahman", "Al-Kahf"],
+        "ur": ["البقرہ", "یٰس", "الرحمٰن", "الکہف"],
+        "jp": ["アル＝バカラ", "ヤー・スィーン", "アル＝ラフマーン", "アル＝カフ"],
+        "ar": ["البقرة", "يس", "الرحمن", "الكهف"]
+      },
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://sunnah.com/tirmidhi:2887"
+    },
+    {
+      "id": 35,
+      "questionText": {
+        "en": "Which Surah should be recited on Fridays?",
+        "ur": "جمعہ کے دن کون سی سورت پڑھنی چاہیے؟",
+        "jp": "金曜日に読むことが推奨されているスーラはどれですか？",
+        "ar": "أي سورة يُستحب قراءتها يوم الجمعة؟"
+      },
+      "options": {
+        "en": ["Al-Kahf", "Ya-Sin", "Al-Waqiah", "Ar-Rahman"],
+        "ur": ["الکہف", "یٰس", "الواقعہ", "الرحمٰن"],
+        "jp": ["アル＝カフ", "ヤー・スィーン", "アル＝ワーキア", "アル＝ラフマーン"],
+        "ar": ["الكهف", "يس", "الواقعة", "الرحمن"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/hakim:3392"
+    },
+    {
+      "id": 36,
+      "questionText": {
+        "en": "How many Rak‘ahs are in the Dhuhr prayer (farḍ)?",
+        "ur": "ظہر کی فرض نماز میں کتنی رکعتیں ہیں؟",
+        "jp": "ズフルの義務礼拝は何ラカアトですか？",
+        "ar": "كم عدد ركعات صلاة الظهر (الفرض)؟"
+      },
+      "options": {
+        "en": ["2", "3", "4", "5"],
+        "ur": ["2", "3", "4", "5"],
+        "jp": ["2", "3", "4", "5"],
+        "ar": ["2", "3", "4", "5"]
+      },
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://sunnah.com/bukhari:1091"
+    },
+    {
+      "id": 37,
+      "questionText": {
+        "en": "Which prophet was swallowed by a great fish?",
+        "ur": "کس نبی کو مچھلی نے نگل لیا تھا؟",
+        "jp": "大きな魚に飲み込まれた預言者は誰ですか？",
+        "ar": "أي نبي ابتلعه الحوت؟"
+      },
+      "options": {
+        "en": ["Yunus", "Musa", "Ilyas", "Ayyub"],
+        "ur": ["یونسؑ", "موسیٰؑ", "الیاسؑ", "ایوبؑ"],
+        "jp": ["ユーヌス", "ムーサー", "イリヤース", "アイユーブ"],
+        "ar": ["يونس", "موسى", "إلياس", "أيوب"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/37/139-144"
+    },
+    {
+      "id": 38,
+      "questionText": {
+        "en": "What was the first Qiblah of Muslims?",
+        "ur": "مسلمانوں کا پہلا قبلہ کون سا تھا؟",
+        "jp": "ムスリムの最初のキブラはどこでしたか？",
+        "ar": "ما كانت القبلة الأولى للمسلمين؟"
+      },
+      "options": {
+        "en": ["Ka‘bah", "Masjid an-Nabawi", "Masjid al-Aqsa", "Mount Sinai"],
+        "ur": ["کعبہ", "مسجد نبوی", "مسجد اقصیٰ", "طور سینا"],
+        "jp": ["カアバ", "預言者のモスク", "アル＝アクサー・モスク", "シナイ山"],
+        "ar": ["الكعبة", "المسجد النبوي", "المسجد الأقصى", "جبل سيناء"]
+      },
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com/2/144"
+    },
+    {
+      "id": 39,
+      "questionText": {
+        "en": "Which angel will blow the trumpet on the Day of Judgment?",
+        "ur": "قیامت کے دن صور کون پھونکے گا؟",
+        "jp": "審判の日にラッパを吹く天使は誰ですか？",
+        "ar": "من المَلَك الذي ينفخ في الصور؟"
+      },
+      "options": {
+        "en": ["Jibreel", "Mikail", "Israfil", "Malik"],
+        "ur": ["جبرائیل", "میکائیل", "اسرافیل", "مالک"],
+        "jp": ["ジブリール", "ミーカール", "イスラフィール", "マーリク"],
+        "ar": ["جبريل", "ميكائيل", "إسرافيل", "مالك"]
+      },
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://sunnah.com/tirmidhi:2431"
+    },
+    {
+      "id": 40,
+      "questionText": {
+        "en": "Which Surah does NOT begin with Bismillah?",
+        "ur": "کون سی سورت بسم اللہ سے شروع نہیں ہوتی؟",
+        "jp": "「ビスミッラー」で始まらないスーラはどれですか？",
+        "ar": "أي سورة لا تبدأ ببسم الله؟"
+      },
+      "options": {
+        "en": ["Al-Anfal", "At-Tawbah", "Al-Fil", "Al-Qadr"],
+        "ur": ["الانفال", "التوبہ", "الفیل", "القدر"],
+        "jp": ["アル＝アンファール", "アッ＝タウバ", "アル＝フィール", "アル＝カドル"],
+        "ar": ["الأنفال", "التوبة", "الفيل", "القدر"]
+      },
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/9"
+    },
+    {
+      "id": 41,
+      "questionText": {
+        "en": "Which prophet could interpret dreams?",
+        "ur": "کون سے نبی خوابوں کی تعبیر بتاتے تھے؟",
+        "jp": "夢の解釈ができた預言者は誰ですか？",
+        "ar": "أي نبي كان يفسر الأحلام؟"
+      },
+      "options": {
+        "en": ["Yusuf", "Ibrahim", "Yaqub", "Ismail"],
+        "ur": ["یوسفؑ", "ابراہیمؑ", "یعقوبؑ", "اسماعیلؑ"],
+        "jp": ["ユースフ", "イブラーヒーム", "ヤアクーブ", "イスマーイール"],
+        "ar": ["يوسف", "إبراهيم", "يعقوب", "إسماعيل"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/12/43-49"
+    },
+    {
+      "id": 42,
+      "questionText": {
+        "en": "Which wife of the Prophet ﷺ narrated the most hadith?",
+        "ur": "نبی ﷺ کی کون سی زوجہ نے سب سے زیادہ احادیث روایت کیں؟",
+        "jp": "最も多くのハディースを伝えた預言者 ﷺ の妻は誰ですか？",
+        "ar": "أي زوجات النبي ﷺ روت أكثر الأحاديث؟"
+      },
+      "options": {
+        "en": ["Khadijah", "Aisha", "Hafsa", "Umm Salamah"],
+        "ur": ["خدیجہؓ", "عائشہؓ", "حفصہؓ", "ام سلمہؓ"],
+        "jp": ["ハディージャ", "アーイシャ", "ハフサ", "ウンム・サラマ"],
+        "ar": ["خديجة", "عائشة", "حفصة", "أم سلمة"]
+      },
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://sunnah.com/bukhari:3762"
+    },
+    {
+      "id": 43,
+      "questionText": {
+        "en": "What is the name of the angel of death?",
+        "ur": "موت کے فرشتے کا نام کیا ہے؟",
+        "jp": "死を司る天使の名前は何ですか？",
+        "ar": "ما اسم ملك الموت؟"
+      },
+      "options": {
+        "en": ["Jibreel", "Israfil", "Azrael", "Mikail"],
+        "ur": ["جبرائیل", "اسرافیل", "عزرائیل", "میکائیل"],
+        "jp": ["ジブリール", "イスラフィール", "アズラーイール", "ミーカール"],
+        "ar": ["جبريل", "إسرافيل", "عزرائيل", "ميكائيل"]
+      },
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com/32/11"
+    },
+    {
+      "id": 44,
+      "questionText": {
+        "en": "Which Surah talks most about laws?",
+        "ur": "کس سورت میں سب سے زیادہ احکام بیان ہوئے ہیں؟",
+        "jp": "法律について最も多く語られているスーラはどれですか？",
+        "ar": "أي سورة تحتوي على أكثر الأحكام؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "An-Nisa", "Al-Ma'idah", "At-Tawbah"],
+        "ur": ["البقرہ", "النساء", "المائدہ", "التوبہ"],
+        "jp": ["アル＝バカラ", "アン＝ニサー", "アル＝マーイダ", "アッ＝タウバ"],
+        "ar": ["البقرة", "النساء", "المائدة", "التوبة"]
+      },
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com/5"
+    },
+    {
+      "id": 45,
+      "questionText": {
+        "en": "How many times is the name Muhammad mentioned explicitly in the Qur’an?",
+        "ur": "قرآن میں محمد ﷺ کا نام کتنی بار آیا ہے؟",
+        "jp": "クルアーンで「ムハンマド」という名前は何回出てきますか？",
+        "ar": "كم مرة ذُكر اسم محمد ﷺ صراحة في القرآن؟"
+      },
+      "options": {
+        "en": ["3", "4", "5", "6"],
+        "ur": ["3", "4", "5", "6"],
+        "jp": ["3", "4", "5", "6"],
+        "ar": ["3", "4", "5", "6"]
+      },
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/search?q=Muhammad"
+    },
+    {
+      "id": 46,
+      "questionText": {
+        "en": "Which prophet spoke to Allah directly?",
+        "ur": "کس نبی نے اللہ سے براہ راست کلام کیا؟",
+        "jp": "アッラーと直接話した預言者は誰ですか？",
+        "ar": "أي نبي كلمه الله مباشرة؟"
+      },
+      "options": {
+        "en": ["Ibrahim", "Isa", "Musa", "Muhammad"],
+        "ur": ["ابراہیمؑ", "عیسیٰؑ", "موسیٰؑ", "محمد ﷺ"],
+        "jp": ["イブラーヒーム", "イーサー", "ムーサー", "ムハンマド"],
+        "ar": ["إبراهيم", "عيسى", "موسى", "محمد"]
+      },
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com/4/164"
+    },
+    {
+      "id": 47,
+      "questionText": {
+        "en": "Which Surah describes the creation of man from a clot?",
+        "ur": "کس سورت میں انسان کی تخلیق خون کے لوتھڑے سے بیان ہوئی ہے؟",
+        "jp": "人間が血の塊から創られたと述べているスーラはどれですか？",
+        "ar": "أي سورة تصف خلق الإنسان من علقة؟"
+      },
+      "options": {
+        "en": ["Al-Alaq", "Al-Insan", "Al-Hijr", "Al-Balad"],
+        "ur": ["العلق", "الانسان", "الحجر", "البلد"],
+        "jp": ["アル＝アラク", "アル＝インサーン", "アル＝ヒジュル", "アル＝バラド"],
+        "ar": ["العلق", "الإنسان", "الحجر", "البلد"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/96/2"
+    },
+    {
+      "id": 48,
+      "questionText": {
+        "en": "What is the bridge over Hell called?",
+        "ur": "جہنم پر بنے پل کو کیا کہتے ہیں؟",
+        "jp": "地獄の上に架かる橋は何と呼ばれますか？",
+        "ar": "ما اسم الجسر فوق جهنم؟"
+      },
+      "options": {
+        "en": ["Sirat", "Barzakh", "Mizan", "Hawd"],
+        "ur": ["صراط", "برزخ", "میزان", "حوض"],
+        "jp": ["スィラート", "バルザフ", "ミーザーン", "ハウド"],
+        "ar": ["الصراط", "البرزخ", "الميزان", "الحوض"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/muslim:183"
+    },
+    {
+      "id": 49,
+      "questionText": {
+        "en": "Which Surah mentions the story of Ashab al-Kahf?",
+        "ur": "اصحابِ کہف کا واقعہ کس سورت میں ہے؟",
+        "jp": "洞窟の民（アシャーブ・アル＝カフ）の物語はどのスーラにありますか？",
+        "ar": "في أي سورة ذُكرت قصة أصحاب الكهف؟"
+      },
+      "options": {
+        "en": ["Al-Kahf", "Ya-Sin", "Al-Isra", "Hud"],
+        "ur": ["الکہف", "یٰس", "الاسراء", "ہود"],
+        "jp": ["アル＝カフ", "ヤー・スィーン", "アル＝イスラー", "フード"],
+        "ar": ["الكهف", "يس", "الإسراء", "هود"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/18"
+    },
+    {
+      "id": 50,
+      "questionText": {
+        "en": "Which prophet was known for his patience?",
+        "ur": "کس نبی کو صبر کے لیے جانا جاتا ہے؟",
+        "jp": "忍耐で知られる預言者は誰ですか？",
+        "ar": "أي نبي عُرف بالصبر؟"
+      },
+      "options": {
+        "en": ["Ayyub", "Yusuf", "Nuh", "Dawud"],
+        "ur": ["ایوبؑ", "یوسفؑ", "نوحؑ", "داؤدؑ"],
+        "jp": ["アイユーブ", "ユースフ", "ヌーフ", "ダウード"],
+        "ar": ["أيوب", "يوسف", "نوح", "داود"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/38/44"
+    },
+    {
+      "id": 51,
+      "questionText": {
+        "en": "What is the name of the scale on the Day of Judgment?",
+        "ur": "قیامت کے دن ترازو کو کیا کہتے ہیں؟",
+        "jp": "審判の日の天秤は何と呼ばれますか？",
+        "ar": "ما اسم الميزان يوم القيامة؟"
+      },
+      "options": {
+        "en": ["Mizan", "Sirat", "Hawd", "Barzakh"],
+        "ur": ["میزان", "صراط", "حوض", "برزخ"],
+        "jp": ["ミーザーン", "スィラート", "ハウド", "バルザフ"],
+        "ar": ["الميزان", "الصراط", "الحوض", "البرزخ"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/21/47"
+    },
+    {
+      "id": 52,
+      "questionText": {
+        "en": "Which prophet built the Ka‘bah with his son?",
+        "ur": "کس نبی نے اپنے بیٹے کے ساتھ کعبہ تعمیر کیا؟",
+        "jp": "息子と共にカアバを建てた預言者は誰ですか？",
+        "ar": "أي نبي بنى الكعبة مع ابنه؟"
+      },
+      "options": {
+        "en": ["Ibrahim", "Adam", "Nuh", "Dawud"],
+        "ur": ["ابراہیمؑ", "آدمؑ", "نوحؑ", "داؤدؑ"],
+        "jp": ["イブラーヒーム", "アーダム", "ヌーフ", "ダウード"],
+        "ar": ["إبراهيم", "آدم", "نوح", "داود"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/127"
+    },
+    {
+      "id": 53,
+      "questionText": {
+        "en": "Which Surah starts with the letters Alif Lam Mim?",
+        "ur": "کون سی سورت الف لام میم سے شروع ہوتی ہے؟",
+        "jp": "「アリフ・ラーム・ミーム」で始まるスーラはどれですか？",
+        "ar": "أي سورة تبدأ بـ (الم)؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "Al-Ikhlas", "An-Nas", "Al-Kawthar"],
+        "ur": ["البقرہ", "الإخلاص", "الناس", "الکوثر"],
+        "jp": ["アル＝バカラ", "アル＝イクラス", "アン＝ナース", "アル＝カウサル"],
+        "ar": ["البقرة", "الإخلاص", "الناس", "الكوثر"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/1"
+    },
+    {
+      "id": 54,
+      "questionText": {
+        "en": "Which prophet was given the Zabur?",
+        "ur": "کس نبی کو زبور عطا کی گئی؟",
+        "jp": "ザブール（詩篇）を授けられた預言者は誰ですか？",
+        "ar": "أي نبي أُنزِل عليه الزبور؟"
+      },
+      "options": {
+        "en": ["Dawud", "Musa", "Isa", "Ibrahim"],
+        "ur": ["داؤدؑ", "موسیٰؑ", "عیسیٰؑ", "ابراہیمؑ"],
+        "jp": ["ダウード", "ムーサー", "イーサー", "イブラーヒーム"],
+        "ar": ["داود", "موسى", "عيسى", "إبراهيم"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/4/163"
+    },
+    {
+      "id": 55,
+      "questionText": {
+        "en": "What is the name of the Prophet’s ﷺ night journey?",
+        "ur": "نبی ﷺ کے رات کے سفر کو کیا کہتے ہیں؟",
+        "jp": "預言者 ﷺ の夜の旅は何と呼ばれますか？",
+        "ar": "ما اسم رحلة النبي ﷺ الليلية؟"
+      },
+      "options": {
+        "en": ["Hijrah", "Isra and Mi‘raj", "Tabuk", "Badr"],
+        "ur": ["ہجرت", "اسراء و معراج", "تبوک", "بدر"],
+        "jp": ["ヒジュラ", "イスラーとミラージュ", "タブーク", "バドル"],
+        "ar": ["الهجرة", "الإسراء والمعراج", "تبوك", "بدر"]
+      },
+      "correctAnswerIndex": 1,
+      "referenceUrl": "https://quran.com/17/1"
+    },
+    {
+      "id": 56,
+      "questionText": {
+        "en": "Which Surah begins with the oath of time?",
+        "ur": "کون سی سورت وقت کی قسم سے شروع ہوتی ہے؟",
+        "jp": "時間への誓いで始まるスーラはどれですか？",
+        "ar": "أي سورة تبدأ بالقَسَم بالزمن؟"
+      },
+      "options": {
+        "en": ["Al-Asr", "Al-Fajr", "Ad-Duha", "Al-Layl"],
+        "ur": ["العصر", "الفجر", "الضحیٰ", "اللیل"],
+        "jp": ["アル＝アスル", "アル＝ファジュル", "アッ＝ドゥハー", "アル＝ライル"],
+        "ar": ["العصر", "الفجر", "الضحى", "الليل"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/103"
+    },
+    {
+      "id": 57,
+      "questionText": {
+        "en": "Which battle was the first in Islam?",
+        "ur": "اسلام کی پہلی جنگ کون سی تھی؟",
+        "jp": "イスラムで最初の戦いはどれですか？",
+        "ar": "ما أول معركة في الإسلام؟"
+      },
+      "options": {
+        "en": ["Badr", "Uhud", "Khandaq", "Tabuk"],
+        "ur": ["بدر", "احد", "خندق", "تبوک"],
+        "jp": ["バドル", "ウフド", "ハンダク", "タブーク"],
+        "ar": ["بدر", "أحد", "الخندق", "تبوك"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/8/5"
+    },
+    {
+      "id": 58,
+      "questionText": {
+        "en": "Which Surah mentions the story of Qarun?",
+        "ur": "قارون کا قصہ کس سورت میں آیا ہے؟",
+        "jp": "قارون（カールーン）の物語はどのスーラにありますか？",
+        "ar": "في أي سورة ذُكرت قصة قارون؟"
+      },
+      "options": {
+        "en": ["Al-Qasas", "Al-Kahf", "Hud", "Yunus"],
+        "ur": ["القصص", "الکہف", "ہود", "یونس"],
+        "jp": ["アル＝カサス", "アル＝カフ", "フード", "ユーヌス"],
+        "ar": ["القصص", "الكهف", "هود", "يونس"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/28/76"
+    },
+    {
+      "id": 59,
+      "questionText": {
+        "en": "Which Surah is recited for protection from evil?",
+        "ur": "برائی سے حفاظت کے لیے کون سی سورت پڑھی جاتی ہے؟",
+        "jp": "悪からの守りのために読まれるスーラはどれですか？",
+        "ar": "أي سورة تُقرأ للحماية من الشر؟"
+      },
+      "options": {
+        "en": ["Al-Falaq", "Al-Kawthar", "Al-Asr", "At-Tin"],
+        "ur": ["الفلق", "الکوثر", "العصر", "التین"],
+        "jp": ["アル＝ファラク", "アル＝カウサル", "アル＝アスル", "アッ＝ティーン"],
+        "ar": ["الفلق", "الكوثر", "العصر", "التين"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/113"
+    },
+    {
+      "id": 60,
+      "questionText": {
+        "en": "What is the name of the Prophet’s ﷺ migration?",
+        "ur": "نبی ﷺ کی ہجرت کو کیا کہا جاتا ہے؟",
+        "jp": "預言者 ﷺ の移住は何と呼ばれますか？",
+        "ar": "ما اسم هجرة النبي ﷺ؟"
+      },
+      "options": {
+        "en": ["Hijrah", "Isra", "Mi‘raj", "Tabuk"],
+        "ur": ["ہجرت", "اسراء", "معراج", "تبوک"],
+        "jp": ["ヒジュラ", "イスラー", "ミラージュ", "タブーク"],
+        "ar": ["الهجرة", "الإسراء", "المعراج", "تبوك"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/9/20"
+    },
+    {
+      "id": 61,
+      "questionText": {
+        "en": "Which Surah begins with “Tabarakalladhi”?",
+        "ur": "کون سی سورت تبارک الذی سے شروع ہوتی ہے؟",
+        "jp": "「タバーラカッラディー」で始まるスーラはどれですか？",
+        "ar": "أي سورة تبدأ بـ «تبارك الذي»؟"
+      },
+      "options": {
+        "en": ["Al-Mulk", "Al-Jinn", "Al-Hashr", "Al-Waqiah"],
+        "ur": ["الملک", "الجن", "الحشر", "الواقعہ"],
+        "jp": ["アル＝ムルク", "アル＝ジン", "アル＝ハシュル", "アル＝ワーキア"],
+        "ar": ["الملك", "الجن", "الحشر", "الواقعة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/67/1"
+    },
+    {
+      "id": 62,
+      "questionText": {
+        "en": "Which prophet had control over the wind?",
+        "ur": "کس نبی کو ہوا پر اختیار دیا گیا تھا؟",
+        "jp": "風を支配する力を与えられた預言者は誰ですか？",
+        "ar": "أي نبي سُخرت له الرياح؟"
+      },
+      "options": {
+        "en": ["Sulaiman", "Dawud", "Ibrahim", "Musa"],
+        "ur": ["سلیمانؑ", "داؤدؑ", "ابراہیمؑ", "موسیٰؑ"],
+        "jp": ["スライマーン", "ダウード", "イブラーヒーム", "ムーサー"],
+        "ar": ["سليمان", "داود", "إبراهيم", "موسى"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/21/81"
+    },
+    {
+      "id": 63,
+      "questionText": {
+        "en": "Which Surah is also called ‘The Bride of the Qur’an’?",
+        "ur": "قرآن کی دلہن کہلانے والی سورت کون سی ہے؟",
+        "jp": "「クルアーンの花嫁」とも呼ばれるスーラはどれですか？",
+        "ar": "أي سورة تُسمى عروس القرآن؟"
+      },
+      "options": {
+        "en": ["Ar-Rahman", "Ya-Sin", "Al-Waqiah", "Al-Mulk"],
+        "ur": ["الرحمٰن", "یٰس", "الواقعہ", "الملک"],
+        "jp": ["アル＝ラフマーン", "ヤー・スィーン", "アル＝ワーキア", "アル＝ムルク"],
+        "ar": ["الرحمن", "يس", "الواقعة", "الملك"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/bayhaqi:1976"
+    },
+    {
+      "id": 64,
+      "questionText": {
+        "en": "Which prophet was tested with wealth, children, and health?",
+        "ur": "کس نبی کو مال، اولاد اور صحت کے ذریعے آزمایا گیا؟",
+        "jp": "財産・子供・健康で試された預言者は誰ですか？",
+        "ar": "أي نبي ابتُلي بالمال والولد والصحة؟"
+      },
+      "options": {
+        "en": ["Ayyub", "Yusuf", "Ibrahim", "Nuh"],
+        "ur": ["ایوبؑ", "یوسفؑ", "ابراہیمؑ", "نوحؑ"],
+        "jp": ["アイユーブ", "ユースフ", "イブラーヒーム", "ヌーフ"],
+        "ar": ["أيوب", "يوسف", "إبراهيم", "نوح"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/21/83-84"
+    },
+    {
+      "id": 65,
+      "questionText": {
+        "en": "Which Surah mentions the event of the splitting of the moon?",
+        "ur": "چاند کے دو ٹکڑے ہونے کا واقعہ کس سورت میں ہے؟",
+        "jp": "月が割れた出来事が語られているスーラはどれですか？",
+        "ar": "في أي سورة ذُكر انشقاق القمر؟"
+      },
+      "options": {
+        "en": ["Al-Qamar", "Al-Isra", "An-Najm", "Al-Hadid"],
+        "ur": ["القمر", "الاسراء", "النجم", "الحدید"],
+        "jp": ["アル＝カマル", "アル＝イスラー", "アン＝ナジュム", "アル＝ハディード"],
+        "ar": ["القمر", "الإسراء", "النجم", "الحديد"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/54/1"
+    },
+    {
+      "id": 66,
+      "questionText": {
+        "en": "Which Surah warns about backbiting using the example of eating flesh?",
+        "ur": "غیبت کے بارے میں گوشت کھانے کی مثال کس سورت میں دی گئی ہے؟",
+        "jp": "陰口を死肉を食べる例えで戒めているスーラはどれですか？",
+        "ar": "في أي سورة شُبّهت الغيبة بأكل لحم الميت؟"
+      },
+      "options": {
+        "en": ["Al-Hujurat", "An-Nur", "Al-Baqarah", "Al-Hashr"],
+        "ur": ["الحجرات", "النور", "البقرہ", "الحشر"],
+        "jp": ["アル＝フジュラート", "アン＝ヌール", "アル＝バカラ", "アル＝ハシュル"],
+        "ar": ["الحجرات", "النور", "البقرة", "الحشر"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/49/12"
+    },
+    {
+      "id": 67,
+      "questionText": {
+        "en": "Which Surah contains Ayat al-Kursi?",
+        "ur": "آیت الکرسی کس سورت میں ہے؟",
+        "jp": "アーヤト・アル＝クルシーはどのスーラにありますか？",
+        "ar": "في أي سورة آية الكرسي؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "Aal ‘Imran", "An-Nisa", "Al-Ma'idah"],
+        "ur": ["البقرہ", "آل عمران", "النساء", "المائدہ"],
+        "jp": ["アル＝バカラ", "アール・イムラーン", "アン＝ニサー", "アル＝マーイダ"],
+        "ar": ["البقرة", "آل عمران", "النساء", "المائدة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/255"
+    },
+    {
+      "id": 68,
+      "questionText": {
+        "en": "Which Surah is recommended to recite at night for protection from Shaytan (often paired with Ayat al-Kursi)?",
+        "ur": "شیطان سے حفاظت کے لیے رات کو کون سی سورت پڑھنے کی ترغیب ہے (اکثر آیت الکرسی کے ساتھ)؟",
+        "jp": "夜に悪魔から守られるために読むことが勧められるスーラは？（アーヤト・アル＝クルシーと併せて）",
+        "ar": "أي سورة يُستحب قراءتها ليلاً للحماية من الشيطان (وغالباً مع آية الكرسي)؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "Al-Hashr", "Al-Kahf", "Al-Mulk"],
+        "ur": ["البقرہ", "الحشر", "الکہف", "الملک"],
+        "jp": ["アル＝バカラ", "アル＝ハシュル", "アル＝カフ", "アル＝ムルク"],
+        "ar": ["البقرة", "الحشر", "الكهف", "الملك"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/bukhari:2311"
+    },
+    {
+      "id": 69,
+      "questionText": {
+        "en": "Which Surah begins with “Qul huwa Allahu ahad”?",
+        "ur": "کون سی سورت 'قل هو اللہ احد' سے شروع ہوتی ہے؟",
+        "jp": "「クル・フワッラーフ・アハド」で始まるスーラはどれですか？",
+        "ar": "أي سورة تبدأ بـ «قل هو الله أحد»؟"
+      },
+      "options": {
+        "en": ["Al-Ikhlas", "Al-Falaq", "An-Nas", "Al-Kafirun"],
+        "ur": ["الإخلاص", "الفلق", "الناس", "الکافرون"],
+        "jp": ["アル＝イクラス", "アル＝ファラク", "アン＝ナース", "アル＝カーフィルーン"],
+        "ar": ["الإخلاص", "الفلق", "الناس", "الكافرون"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/112/1"
+    },
+    {
+      "id": 70,
+      "questionText": {
+        "en": "Which of the following is NOT one of the four sacred months?",
+        "ur": "درج ذیل میں سے کون سا چار حرمت والے مہینوں میں شامل نہیں؟",
+        "jp": "次のうち、四つの聖なる月に含まれないのはどれですか？",
+        "ar": "أي مما يلي ليس من الأشهر الحرم الأربعة؟"
+      },
+      "options": {
+        "en": ["Rajab", "Dhul Qa‘dah", "Sha‘ban", "Muharram"],
+        "ur": ["رجب", "ذوالقعدہ", "شعبان", "محرم"],
+        "jp": ["ラジャブ", "ズルカアダ", "シャアバーン", "ムハッラム"],
+        "ar": ["رجب", "ذو القعدة", "شعبان", "محرم"]
+      },
+      "correctAnswerIndex": 2,
+      "referenceUrl": "https://quran.com/9/36"
+    },
+    {
+      "id": 71,
+      "questionText": {
+        "en": "Which Surah is named after a woman?",
+        "ur": "کون سی سورت ایک عورت کے نام پر ہے؟",
+        "jp": "女性の名が付いたスーラはどれですか？",
+        "ar": "أي سورة سُمِّيت باسم امرأة؟"
+      },
+      "options": {
+        "en": ["Maryam", "An-Nisa", "Al-Mumtahanah", "Al-Ahzab"],
+        "ur": ["مریم", "النساء", "الممتحنہ", "الاحزاب"],
+        "jp": ["マルヤム", "アン＝ニサー", "アル＝ムムタハナ", "アル＝アハزاب"],
+        "ar": ["مريم", "النساء", "الممتحنة", "الأحزاب"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/19"
+    },
+    {
+      "id": 72,
+      "questionText": {
+        "en": "Which Surah is named after a tribe of the Quraysh?",
+        "ur": "قریش کے قبیلے کے نام پر کون سی سورت ہے؟",
+        "jp": "クライシュ族にちなんだスーラはどれですか？",
+        "ar": "أي سورة سُمِّيت باسم قبيلة قريش؟"
+      },
+      "options": {
+        "en": ["Quraysh", "Al-Fil", "Al-Ma'un", "Al-Humazah"],
+        "ur": ["قریش", "الفیل", "الماعون", "الہمزہ"],
+        "jp": ["クライシュ", "アル＝フィール", "アル＝マーウーン", "アル＝フマザ"],
+        "ar": ["قريش", "الفيل", "الماعون", "الهمزة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/106"
+    },
+    {
+      "id": 73,
+      "questionText": {
+        "en": "Which Surah is also known as 'The Opening'?",
+        "ur": "کون سی سورت 'افتتاح' کے نام سے بھی معروف ہے؟",
+        "jp": "「開端」とも呼ばれるスーラはどれですか？",
+        "ar": "أي سورة تُعرف أيضاً بـ «الفاتحة»؟"
+      },
+      "options": {
+        "en": ["Al-Fatihah", "Al-Baqarah", "An-Nas", "Al-Falaq"],
+        "ur": ["الفاتحہ", "البقرہ", "الناس", "الفلق"],
+        "jp": ["アル＝ファーティハ", "アル＝バカラ", "アン＝ナース", "アル＝ファラク"],
+        "ar": ["الفاتحة", "البقرة", "الناس", "الفلق"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/1"
+    },
+    {
+      "id": 74,
+      "questionText": {
+        "en": "Which Surah starts with “Inna a‘taynakal-kawthar”?",
+        "ur": "کون سی سورت 'إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ' سے شروع ہوتی ہے؟",
+        "jp": "「インナー・アアタインナーカル＝カウサル」で始まるスーラはどれですか？",
+        "ar": "أي سورة تبدأ بـ «إنا أعطيناك الكوثر»؟"
+      },
+      "options": {
+        "en": ["Al-Kawthar", "Al-Asr", "Al-Fil", "Al-Qadr"],
+        "ur": ["الکوثر", "العصر", "الفیل", "القدر"],
+        "jp": ["アル＝カウサル", "アル＝アスル", "アル＝フィール", "アル＝カドル"],
+        "ar": ["الكوثر", "العصر", "الفيل", "القدر"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/108/1"
+    },
+    {
+      "id": 75,
+      "questionText": {
+        "en": "Which prophet was sent to Pharaoh?",
+        "ur": "فرعون کی طرف کون سے نبی بھیجے گئے؟",
+        "jp": "ファラオに遣わされた預言者は誰ですか？",
+        "ar": "أي نبي أُرسل إلى فرعون؟"
+      },
+      "options": {
+        "en": ["Musa", "Isa", "Ibrahim", "Nuh"],
+        "ur": ["موسیٰؑ", "عیسیٰؑ", "ابراہیمؑ", "نوحؑ"],
+        "jp": ["ムーサー", "イーサー", "イブラーヒーム", "ヌーフ"],
+        "ar": ["موسى", "عيسى", "إبراهيم", "نوح"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/20/24"
+    },
+    {
+      "id": 76,
+      "questionText": {
+        "en": "Which prophet was given the Torah?",
+        "ur": "تورات کس نبی کو دی گئی؟",
+        "jp": "トーラーを授けられた預言者は誰ですか？",
+        "ar": "أي نبي أُنزِلت عليه التوراة؟"
+      },
+      "options": {
+        "en": ["Musa", "Isa", "Dawud", "Muhammad"],
+        "ur": ["موسیٰؑ", "عیسیٰؑ", "داؤدؑ", "محمد ﷺ"],
+        "jp": ["ムーサー", "イーサー", "ダウード", "ムハンマド"],
+        "ar": ["موسى", "عيسى", "داود", "محمد"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/5/44"
+    },
+    {
+      "id": 77,
+      "questionText": {
+        "en": "Which prophet was given the Injil (Gospel)?",
+        "ur": "انجیل کس نبی کو دی گئی؟",
+        "jp": "福音（インジール）を授けられた預言者は誰ですか？",
+        "ar": "أي نبي أُنزِل عليه الإنجيل؟"
+      },
+      "options": {
+        "en": ["Isa", "Musa", "Dawud", "Ibrahim"],
+        "ur": ["عیسیٰؑ", "موسیٰؑ", "داؤدؑ", "ابراہیمؑ"],
+        "jp": ["イーサー", "ムーサー", "ダウード", "イブラーヒーム"],
+        "ar": ["عيسى", "موسى", "داود", "إبراهيم"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/5/46"
+    },
+    {
+      "id": 78,
+      "questionText": {
+        "en": "Which Surah mentions that Allah is closer than the jugular vein?",
+        "ur": "اللہ کے شہ رگ سے بھی قریب ہونے کا ذکر کس سورت میں ہے؟",
+        "jp": "アッラーが頸静脈より近いと述べるスーラはどれですか？",
+        "ar": "في أي سورة ذُكر أن الله أقرب من حبل الوريد؟"
+      },
+      "options": {
+        "en": ["Qaf", "Al-Hashr", "An-Nur", "Al-Mulk"],
+        "ur": ["ق", "الحشر", "النور", "الملک"],
+        "jp": ["カーフ", "アル＝ハシュル", "アン＝ヌール", "アル＝ムルク"],
+        "ar": ["ق", "الحشر", "النور", "الملك"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/50/16"
+    },
+    {
+      "id": 79,
+      "questionText": {
+        "en": "Which Surah describes the people of the trench (Ashab al-Ukhdud)?",
+        "ur": "اصحاب الاخدود کا ذکر کس سورت میں ہے؟",
+        "jp": "溝の民（アシャーブ・アル＝ウフドゥード）について述べるスーラはどれですか？",
+        "ar": "أي سورة ذكرت أصحاب الأخدود؟"
+      },
+      "options": {
+        "en": ["Al-Buruj", "Al-Qalam", "Al-Masad", "At-Takathur"],
+        "ur": ["البروج", "القلم", "المسد", "التکاثر"],
+        "jp": ["アル＝ブルージュ", "アル＝カラム", "アル＝マサド", "アッ＝タカースル"],
+        "ar": ["البروج", "القلم", "المسد", "التكاثر"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/85/4-10"
+    },
+    {
+      "id": 80,
+      "questionText": {
+        "en": "Which Surah is about Abu Lahab?",
+        "ur": "ابولہب کے بارے میں کون سی سورت ہے؟",
+        "jp": "アブー・ラハブについてのスーラはどれですか？",
+        "ar": "أي سورة نزلت في أبي لهب؟"
+      },
+      "options": {
+        "en": ["Al-Masad", "Al-Kafirun", "Al-Fil", "Al-Quraysh"],
+        "ur": ["المسد", "الکافرون", "الفیل", "قریش"],
+        "jp": ["アル＝マサド", "アル＝カーフィルーン", "アル＝フィール", "クライシュ"],
+        "ar": ["المسد", "الكافرون", "الفيل", "قريش"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/111"
+    },
+    {
+      "id": 81,
+      "questionText": {
+        "en": "Which Surah mentions that Allah forgives all sins for those who repent?",
+        "ur": "توبہ کرنے والوں کے لیے اللہ کے تمام گناہ معاف کرنے کا ذکر کس آیت میں ہے؟",
+        "jp": "悔い改める者にはアッラーがすべての罪を赦すと述べる箇所は？",
+        "ar": "في أي آية ذُكر أن الله يغفر الذنوب جميعاً لمن تاب؟"
+      },
+      "options": {
+        "en": ["Az-Zumar", "An-Nisa", "Al-Ma'idah", "At-Tawbah"],
+        "ur": ["الزمر", "النساء", "المائدہ", "التوبہ"],
+        "jp": ["アッ＝ズマル", "アン＝ニサー", "アル＝マーイダ", "アッ＝タウバ"],
+        "ar": ["الزمر", "النساء", "المائدة", "التوبة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/39/53"
+    },
+    {
+      "id": 82,
+      "questionText": {
+        "en": "Which Surah contains the verse of light (Ayat an-Nur)?",
+        "ur": "آیت النور کس سورت میں ہے؟",
+        "jp": "光の節（アーヤトゥン＝ヌール）はどのスーラにありますか？",
+        "ar": "في أي سورة آية النور؟"
+      },
+      "options": {
+        "en": ["An-Nur", "Al-Isra", "Al-Fath", "Al-Hadid"],
+        "ur": ["النور", "الاسراء", "الفتح", "الحدید"],
+        "jp": ["アン＝ヌール", "アル＝イスラー", "アル＝ファトフ", "アル＝ハディード"],
+        "ar": ["النور", "الإسراء", "الفتح", "الحديد"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/24/35"
+    },
+    {
+      "id": 83,
+      "questionText": {
+        "en": "Which Surah describes the hypocrites most explicitly?",
+        "ur": "منافقین کا سب سے واضح ذکر کس سورت میں ہے؟",
+        "jp": "偽信者について最も明確に述べるスーラはどれですか？",
+        "ar": "أي سورة تتحدث عن المنافقين بشكلٍ واضح؟"
+      },
+      "options": {
+        "en": ["Al-Munafiqun", "Al-Hashr", "At-Taghabun", "Al-Jumu‘ah"],
+        "ur": ["المنافقون", "الحشر", "التغابن", "الجمعہ"],
+        "jp": ["アル＝ムナーフィクーン", "アル＝ハシュル", "アッ＝タグハーブン", "アル＝ジュムア"],
+        "ar": ["المنافقون", "الحشر", "التغابن", "الجمعة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/63"
+    },
+    {
+      "id": 84,
+      "questionText": {
+        "en": "Which Surah mentions the treaty of Hudaybiyyah (clear victory)?",
+        "ur": "صلح حدیبیہ (فتح مبین) کا ذکر کس سورت میں ہے؟",
+        "jp": "フダイビヤ条約（明白な勝利）について述べるスーラはどれですか？",
+        "ar": "أي سورة ذكرت صلح الحديبية بوصفه فتحاً مبيناً؟"
+      },
+      "options": {
+        "en": ["Al-Fath", "At-Tawbah", "An-Nasr", "Al-Hashr"],
+        "ur": ["الفتح", "التوبہ", "النصر", "الحشر"],
+        "jp": ["アル＝ファトフ", "アッ＝タウバ", "アン＝ナスル", "アル＝ハシュル"],
+        "ar": ["الفتح", "التوبة", "النصر", "الحشر"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/48/1"
+    },
+    {
+      "id": 85,
+      "questionText": {
+        "en": "Which Surah begins with “Idha ja’a nasrullahi wal-fath”?",
+        "ur": "کون سی سورت 'اذا جاء نصر اللہ والفتح' سے شروع ہوتی ہے؟",
+        "jp": "「イザー・ジャーア・ナスルッラーヒ・ワル＝ファトフ」で始まるスーラは？",
+        "ar": "أي سورة تبدأ بـ «إذا جاء نصر الله والفتح»؟"
+      },
+      "options": {
+        "en": ["An-Nasr", "Al-Fath", "Al-Kafirun", "Al-Masad"],
+        "ur": ["النصر", "الفتح", "الکافرون", "المسد"],
+        "jp": ["アン＝ナスル", "アル＝ファトフ", "アル＝カーフィルーン", "アル＝マサド"],
+        "ar": ["النصر", "الفتح", "الكافرون", "المسد"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/110/1"
+    },
+    {
+      "id": 86,
+      "questionText": {
+        "en": "Which Surah mentions the word “Salsabil” (a spring in Paradise)?",
+        "ur": "جنت کے چشمے 'سلسبیل' کا ذکر کس سورت میں ہے؟",
+        "jp": "楽園の泉「サルサビール」という語が出てくるスーラは？",
+        "ar": "في أي سورة ذُكر «سلسبيلا»؟"
+      },
+      "options": {
+        "en": ["Al-Insan", "Ar-Rahman", "Al-Waqiah", "Al-Mulk"],
+        "ur": ["الانسان", "الرحمٰن", "الواقعہ", "الملک"],
+        "jp": ["アル＝インサーン", "アル＝ラフマーン", "アル＝ワーキア", "アル＝ムルク"],
+        "ar": ["الإنسان", "الرحمن", "الواقعة", "الملك"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/76/18"
+    },
+    {
+      "id": 87,
+      "questionText": {
+        "en": "Which Surah describes that Allah taught Adam the names?",
+        "ur": "حضرت آدمؑ کو نام سکھانے کا ذکر کس سورت میں ہے؟",
+        "jp": "アーダムに名称を教えたと述べるスーラはどれですか？",
+        "ar": "في أي سورة ذُكر أن الله علّم آدم الأسماء؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "Al-A‘raf", "Taha", "Sad"],
+        "ur": ["البقرہ", "الاعراف", "طٰہٰ", "ص"],
+        "jp": ["アル＝バカラ", "アル＝アアラーフ", "ター・ハー", "サード"],
+        "ar": ["البقرة", "الأعراف", "طه", "ص"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/31"
+    },
+    {
+      "id": 88,
+      "questionText": {
+        "en": "Which Surah mentions the story of Talut and Jalut (Saul and Goliath)?",
+        "ur": "طالوت اور جالوت کا واقعہ کس سورت میں ہے؟",
+        "jp": "タールートとジャールート（サウルとゴリアテ）の物語があるスーラは？",
+        "ar": "في أي سورة قصة طالوت وجالوت؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "Aal ‘Imran", "Al-Ma'idah", "Yunus"],
+        "ur": ["البقرہ", "آل عمران", "المائدہ", "یونس"],
+        "jp": ["アル＝バカラ", "アール・イムラーン", "アル＝マーイダ", "ユーヌス"],
+        "ar": ["البقرة", "آل عمران", "المائدة", "يونس"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/246-251"
+    },
+    {
+      "id": 89,
+      "questionText": {
+        "en": "Which Surah contains the longest verse in the Qur’an (about debt)?",
+        "ur": "قرآن کی سب سے طویل آیت (قرض کے بارے میں) کس سورت میں ہے؟",
+        "jp": "クルアーンで最も長い節（借金について）があるスーラは？",
+        "ar": "في أي سورة أطول آية في القرآن (آية الدين)؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "An-Nisa", "Al-Ma'idah", "At-Tawbah"],
+        "ur": ["البقرہ", "النساء", "المائدہ", "التوبہ"],
+        "jp": ["アル＝バカラ", "アン＝ニサー", "アル＝マーイダ", "アッ＝タウバ"],
+        "ar": ["البقرة", "النساء", "المائدة", "التوبة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/282"
+    },
+    {
+      "id": 90,
+      "questionText": {
+        "en": "Which Surah warns against hoarding wealth and counting it?",
+        "ur": "مال جمع کرنے اور گن گن کر رکھنے سے کس سورت میں منع کیا گیا ہے؟",
+        "jp": "財をため込み数えることを戒めるスーラはどれですか？",
+        "ar": "أي سورة تذم جمع المال وعدَّه؟"
+      },
+      "options": {
+        "en": ["Al-Humazah", "At-Takathur", "Al-Ma'un", "Al-Asr"],
+        "ur": ["الہمزہ", "التکاثر", "الماعون", "العصر"],
+        "jp": ["アル＝フマザ", "アッ＝タカースル", "アル＝マーウーン", "アル＝アスル"],
+        "ar": ["الهمزة", "التكاثر", "الماعون", "العصر"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/104/2-3"
+    },
+    {
+      "id": 91,
+      "questionText": {
+        "en": "Which Surah mentions that every soul will taste death?",
+        "ur": "ہر جان کو موت کا مزہ چکھنے کا ذکر کس آیت میں ہے؟",
+        "jp": "「すべての魂は死を味わう」と述べる箇所は？",
+        "ar": "في أي آية ذُكر أن كل نفس ذائقة الموت؟"
+      },
+      "options": {
+        "en": ["Aal ‘Imran", "An-Nisa", "Al-An‘am", "Al-Fath"],
+        "ur": ["آل عمران", "النساء", "الانعام", "الفتح"],
+        "jp": ["アール・イムラーン", "アン＝ニサー", "アル＝アンアーム", "アル＝ファトフ"],
+        "ar": ["آل عمران", "النساء", "الأنعام", "الفتح"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/3/185"
+    },
+    {
+      "id": 92,
+      "questionText": {
+        "en": "Which Surah mentions the event of the slander (Ifk) against Aisha (RA)?",
+        "ur": "حضرت عائشہؓ پر بہتان (افک) کے واقعے کا ذکر کس سورت میں ہے؟",
+        "jp": "アーイシャ（رضي الله عنها）への中傷（イフク）の出来事が語られるスーラは？",
+        "ar": "في أي سورة ذُكرت حادثة الإفك؟"
+      },
+      "options": {
+        "en": ["An-Nur", "Al-Ahzab", "Al-Hujurat", "At-Tawbah"],
+        "ur": ["النور", "الاحزاب", "الحجرات", "التوبہ"],
+        "jp": ["アン＝ヌール", "アル＝アハزاب", "アル＝フジュラート", "アッ＝タウバ"],
+        "ar": ["النور", "الأحزاب", "الحجرات", "التوبة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/24/11-20"
+    },
+    {
+      "id": 93,
+      "questionText": {
+        "en": "Which Surah mentions that Allah does not burden a soul beyond its capacity?",
+        "ur": "اللہ کسی جان پر اس کی طاقت سے زیادہ بوجھ نہیں ڈالتا—یہ کس سورت میں ہے؟",
+        "jp": "アッラーは魂に能力以上の負担を課さない、と述べる箇所は？",
+        "ar": "في أي آية ذُكر أن الله لا يكلف نفساً إلا وسعها؟"
+      },
+      "options": {
+        "en": ["Al-Baqarah", "An-Nisa", "Al-Ma'idah", "Al-Anfal"],
+        "ur": ["البقرہ", "النساء", "المائدہ", "الانفال"],
+        "jp": ["アル＝バカラ", "アン＝ニサー", "アル＝マーイダ", "アル＝アンファール"],
+        "ar": ["البقرة", "النساء", "المائدة", "الأنفال"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/2/286"
+    },
+    {
+      "id": 94,
+      "questionText": {
+        "en": "Which Surah mentions that Allah is the best of planners?",
+        "ur": "اللہ بہترین تدبیر کرنے والا ہے—یہ کس سورت میں آیا ہے؟",
+        "jp": "「アッラーは最良の計画者である」と述べる箇所は？",
+        "ar": "في أي سورة ذُكر أن الله خير الماكرين/المدبرين؟"
+      },
+      "options": {
+        "en": ["Aal ‘Imran", "Al-Anfal", "Yusuf", "Al-Fil"],
+        "ur": ["آل عمران", "الانفال", "یوسف", "الفیل"],
+        "jp": ["アール・イムラーン", "アル＝アンファール", "ユースフ", "アル＝フィール"],
+        "ar": ["آل عمران", "الأنفال", "يوسف", "الفيل"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/3/54"
+    },
+    {
+      "id": 95,
+      "questionText": {
+        "en": "Which Surah mentions the “People of the Elephant” (Ashab al-Fil)?",
+        "ur": "اصحابِ فیل کا ذکر کس سورت میں ہے؟",
+        "jp": "象の民（アシャーブ・アル＝フィール）について述べるスーラは？",
+        "ar": "في أي سورة ذُكر أصحاب الفيل؟"
+      },
+      "options": {
+        "en": ["Al-Fil", "Quraysh", "Al-Masad", "Al-Humazah"],
+        "ur": ["الفیل", "قریش", "المسد", "الہمزہ"],
+        "jp": ["アル＝フィール", "クライシュ", "アル＝マサド", "アル＝フマザ"],
+        "ar": ["الفيل", "قريش", "المسد", "الهمزة"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/105"
+    },
+    {
+      "id": 96,
+      "questionText": {
+        "en": "Which Surah is recommended to recite before sleeping (about kingship and the grave)?",
+        "ur": "سونے سے پہلے کون سی سورت پڑھنے کی ترغیب ہے (قبر سے متعلق حفاظت)؟",
+        "jp": "就寝前に読むことが勧められるスーラ（墓の罰からの守り） はどれですか？",
+        "ar": "أي سورة يُستحب قراءتها قبل النوم (للحماية من عذاب القبر)؟"
+      },
+      "options": {
+        "en": ["Al-Mulk", "Al-Waqiah", "Al-Kahf", "Ya-Sin"],
+        "ur": ["الملک", "الواقعہ", "الکہف", "یٰس"],
+        "jp": ["アル＝ムルク", "アル＝ワーキア", "アル＝カフ", "ヤー・スィーン"],
+        "ar": ["الملك", "الواقعة", "الكهف", "يس"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/tirmidhi:2891"
+    },
+    {
+      "id": 97,
+      "questionText": {
+        "en": "Which Surah contains the story of Dhul-Qarnayn?",
+        "ur": "ذوالقرنین کا واقعہ کس سورت میں ہے؟",
+        "jp": "ズル＝カルナインの物語があるスーラはどれですか？",
+        "ar": "في أي سورة قصة ذي القرنين؟"
+      },
+      "options": {
+        "en": ["Al-Kahf", "Al-Anbiya", "Maryam", "Al-Qasas"],
+        "ur": ["الکہف", "الانبیاء", "مریم", "القصص"],
+        "jp": ["アル＝カフ", "アル＝アンビヤー", "マルヤム", "アル＝カサス"],
+        "ar": ["الكهف", "الأنبياء", "مريم", "القصص"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/18/83-98"
+    },
+    {
+      "id": 98,
+      "questionText": {
+        "en": "Which Surah contains the phrase “Kun fayakun” (Be, and it is)?",
+        "ur": "‘کن فیکون’ کا ذکر کس سورت میں آیا ہے؟",
+        "jp": "「クン・ファヤクーン（あれ、するとそうなる）」という句があるスーラは？",
+        "ar": "في أي سورة وردت عبارة «كن فيكون»؟"
+      },
+      "options": {
+        "en": ["Ya-Sin", "Al-Fath", "Al-Mulk", "Al-Qadr"],
+        "ur": ["یٰس", "الفتح", "الملک", "القدر"],
+        "jp": ["ヤー・スィーン", "アル＝ファトフ", "アル＝ムルク", "アル＝カドル"],
+        "ar": ["يس", "الفتح", "الملك", "القدر"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/36/82"
+    },
+    {
+      "id": 99,
+      "questionText": {
+        "en": "Which Surah begins with “Alhamdu lillahi rabbil-‘alamin”?",
+        "ur": "‘الحمد للہ رب العالمین’ کس سورت میں ہے؟",
+        "jp": "「アルハムドゥ・リッラーヒ・ラッビル＝アーラミーン」で始まるスーラは？",
+        "ar": "أي سورة تبدأ بـ «الحمد لله رب العالمين»؟"
+      },
+      "options": {
+        "en": ["Al-Fatihah", "Al-An‘am", "Al-Kahf", "Saba"],
+        "ur": ["الفاتحہ", "الانعام", "الکہف", "سبأ"],
+        "jp": ["アル＝ファーティハ", "アル＝アンアーム", "アル＝カフ", "サバ"],
+        "ar": ["الفاتحة", "الأنعام", "الكهف", "سبأ"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://quran.com/1/2"
+    },
+    {
+      "id": 100,
+      "questionText": {
+        "en": "Which Hadith collection is generally regarded as the most authentic single book after the Qur’an?",
+        "ur": "قرآن کے بعد سب سے زیادہ صحیح کتاب کس حدیث کی مانی جاتی ہے؟",
+        "jp": "クルアーンの次に最も信頼される単独の書として一般に見なされるハディース集はどれですか？",
+        "ar": "أي كتاب حديث يُعد غالباً أصح كتاب بعد القرآن؟"
+      },
+      "options": {
+        "en": ["Sahih Bukhari", "Sunan Abu Dawood", "Jami‘ at-Tirmidhi", "Sunan Ibn Majah"],
+        "ur": ["صحیح بخاری", "سنن ابوداؤد", "جامع ترمذی", "سنن ابن ماجہ"],
+        "jp": ["サヒーフ・ブハーリー", "スナン・アブー・ダーウード", "ジャーミウ・ティルミズィー", "スナン・イブン・マージャ"],
+        "ar": ["صحيح البخاري", "سنن أبي داود", "جامع الترمذي", "سنن ابن ماجه"]
+      },
+      "correctAnswerIndex": 0,
+      "referenceUrl": "https://sunnah.com/bukhari"
     }
   ]
 }

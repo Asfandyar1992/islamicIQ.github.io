@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "questionText": {
+        "en": "Who is Allah's final Messenger?",
+        "ur": "فرانس کا دارالحکومت کیا ہے؟",
+        "jp": "フランスの首都はどこですか？"
+      },
+      "options": {
+        "en": ["Jesus", "Moses", "Muhammad", "Abraham"],
+        "ur": ["پیرس", "لندن", "برلن", "میڈرڈ"],
+        "jp": ["パリ", "ロンドン", "ベルリン", "マドリード"]
+      },
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 2,
+      "questionText": {
+        "en": "What is Islam's holy book?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Torah", "Bible", "Quran", "Gospel"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 3,
+      "questionText": {
+        "en": "How many pillars of Islam are there?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["4", "5", "6", "7"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 4,
+      "questionText": {
+        "en": "What is fasting month called?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Ramadan", "Shawwal", "Dhul Hijjah", "Muharram"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 5,
+      "questionText": {
+        "en": "Which city is holiest in Islam?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Mecca", "Medina", "Jerusalem", "Baghdad"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 6,
+      "questionText": {
+        "en": "Who built Kaaba?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Abraham", "Muhammad", "Adam", "Noah"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 7,
+      "questionText": {
+        "en": "What is prayer called in Arabic?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Fasting", "Zakat", "Salat", "Hajj"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 8,
+      "questionText": {
+        "en": "How many times pray daily?" ,
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["3", "4", "5", "6"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 9,
+      "questionText": {
+        "en": "What breaks fasting?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Sleeping", "Eating/Drinking", "Praying", "Reading Quran"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 10,
+      "questionText": {
+        "en": "Who is Muhammad's (PBUH) daughter?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Fatima", "Aisha", "Khadija", "Maryam"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 11,
+      "questionText": {
+        "en": "What is charity called in Arabic?" ,
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Sadaqah", "Zakat", "Salat", "Hajj"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 12,
+      "questionText": {
+        "en": "How many days in Ramadan fasting?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["29-30", "30-31", "28", "32"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 13,
+      "questionText": {
+        "en": "What is Eid after Ramadan called?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Eid ul Fitr", "Eid ul Adha", "Eid ul Milad", "Eid ul Shuja"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 14,
+      "questionText": {
+        "en": "Who wrote Quran down?" ,
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Abu Bakr", "Umar", "Uthman", "Zayd bin Thabit"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": 15,
+      "questionText": {
+        "en": "What is Islam's first pillar?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Salat", "Zakat", "Shahada", "Sawm"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 16,
+      "questionText": {
+        "en": "Who is considered Islam's greatest enemy?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Abu Lahab", "Abu Jahl", "Pharaoh", "Satan"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": 17,
+      "questionText": {
+        "en": "How many rakats in Maghrib prayer?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["2", "3", "4", "5"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 18,
+      "questionText": {
+        "en": "What is Quran's first surah called?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Al-Fatihah", "Al-Baqarah", "Al-Imran", "An-Nas"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 19,
+      "questionText": {
+        "en": "Who was Muhammad's (PBUH) first wife?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Khadija", "Aisha", "Hafsa", "Zaynab"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 20,
+      "questionText": {
+        "en": "What is Eid prayer called?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Jumuah", "Taraweeh", "Salat ul Eid", "Qiyam ul Layl"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 2
+    },
+    {
+      "id": 21,
+      "questionText": {
+        "en": "How many Surahs in Quran?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["110", "114", "115", "120"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 22,
+      "questionText": {
+        "en": "Who was Prophet Muhammad's (PBUH) cousin?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Ali", "Umar", "Abu Bakr", "Uthman"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    },
+    {
+      "id": 23,
+      "questionText": {
+        "en": "What is Zakat percentage?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["2%", "2.5%", "5%", "10%"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 1
+    },
+    {
+      "id": 24,
+      "questionText": {
+        "en": "What breaks Wudu?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Sleeping", "Laughing", "Bleeding", "All above"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 3
+    },
+    {
+      "id": 25,
+      "questionText": {
+        "en": "What is Islam's last pillar?",
+        "ur": "کون سا سیارہ سرخ سیارہ کہلاتا ہے؟",
+        "jp": "赤い惑星として知られる惑星は？"
+      },
+      "options": {
+        "en": ["Hajj", "Umrah", "Zakat", "Sadaqah"],
+        "ur": ["زمین", "مریخ", "زہرہ", "مشتری"],
+        "jp": ["地球", "火星", "金星", "木星"]
+      },
+      "correctAnswerIndex": 0
+    }
+  ]
+}
