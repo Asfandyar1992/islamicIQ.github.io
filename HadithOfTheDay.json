@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updatedUtc": "2026-01-24T08:00:00Z",
+  "defaultQuote": "Welcome back. Let’s play!",
+  "quotes": [
+    { "date": "2026-01-24", "text": "Every question is a chance to learn something new." },
+    { "date": "2026-01-25", "text": "Focus beats speed. Accuracy wins games." },
+    { "date": "2026-01-26", "text": "Small progress today leads to big wins tomorrow." },
+    { "date": "2026-01-27", "text": "Knowledge grows when curiosity leads the way." },
+    { "date": "2026-01-28", "text": "One correct answer can change the entire score." },
+    { "date": "2026-01-29", "text": "Consistency is the secret advantage." },
+    { "date": "2026-01-30", "text": "Stay calm, think clearly, and trust your instincts." },
+    { "date": "2026-01-31", "text": "Every mistake is data, not failure." },
+    { "date": "2026-02-01", "text": "Play smart today so tomorrow feels easier." },
+    { "date": "2026-02-02", "text": "Challenge yourself—growth starts there." }
+  ]
+}
