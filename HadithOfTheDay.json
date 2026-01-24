@@ -1,17 +1,80 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedUtc": "2026-01-24T08:00:00Z",
-  "defaultQuote": "Welcome back. Let’s play!",
+  "defaultQuoteEn": "Welcome back. Let’s play!",
+  "defaultQuoteAr": "مرحبًا بعودتك. هيا نلعب!",
+  "defaultReferenceEn": "—",
+  "defaultReferenceAr": "—",
   "quotes": [
-    { "date": "2026-01-24", "text": "Every question is a chance to learn something new." },
-    { "date": "2026-01-25", "text": "Focus beats speed. Accuracy wins games." },
-    { "date": "2026-01-26", "text": "Small progress today leads to big wins tomorrow." },
-    { "date": "2026-01-27", "text": "Knowledge grows when curiosity leads the way." },
-    { "date": "2026-01-28", "text": "One correct answer can change the entire score." },
-    { "date": "2026-01-29", "text": "Consistency is the secret advantage." },
-    { "date": "2026-01-30", "text": "Stay calm, think clearly, and trust your instincts." },
-    { "date": "2026-01-31", "text": "Every mistake is data, not failure." },
-    { "date": "2026-02-01", "text": "Play smart today so tomorrow feels easier." },
-    { "date": "2026-02-02", "text": "Challenge yourself—growth starts there." }
+    {
+      "date": "2026-01-24",
+      "textEn": "Actions are judged by intentions.",
+      "textAr": "إنما الأعمال بالنيات.",
+      "referenceEn": "Sahih al-Bukhari & Sahih Muslim",
+      "referenceAr": "صحيح البخاري وصحيح مسلم"
+    },
+    {
+      "date": "2026-01-25",
+      "textEn": "Make things easy and do not make them difficult; give good news and do not repel people.",
+      "textAr": "يَسِّرُوا ولا تُعَسِّرُوا وبَشِّرُوا ولا تُنَفِّرُوا.",
+      "referenceEn": "Sahih al-Bukhari",
+      "referenceAr": "صحيح البخاري"
+    },
+    {
+      "date": "2026-01-26",
+      "textEn": "Allah does not look at your appearances or your wealth, but He looks at your hearts and your deeds.",
+      "textAr": "إن الله لا ينظر إلى صوركم ولا إلى أموالكم ولكن ينظر إلى قلوبكم وأعمالكم.",
+      "referenceEn": "Sahih Muslim",
+      "referenceAr": "صحيح مسلم"
+    },
+    {
+      "date": "2026-01-27",
+      "textEn": "The best of you are those who are best to their families.",
+      "textAr": "خيرُكم خيرُكم لأهله.",
+      "referenceEn": "Jami` at-Tirmidhi",
+      "referenceAr": "جامع الترمذي"
+    },
+    {
+      "date": "2026-01-28",
+      "textEn": "Whoever believes in Allah and the Last Day should speak good or remain silent.",
+      "textAr": "من كان يؤمن بالله واليوم الآخر فليقل خيرًا أو ليصمت.",
+      "referenceEn": "Sahih al-Bukhari & Sahih Muslim",
+      "referenceAr": "صحيح البخاري وصحيح مسلم"
+    },
+    {
+      "date": "2026-01-29",
+      "textEn": "Smiling in your brother’s face is charity.",
+      "textAr": "تبسمك في وجه أخيك صدقة.",
+      "referenceEn": "Jami` at-Tirmidhi",
+      "referenceAr": "جامع الترمذي"
+    },
+    {
+      "date": "2026-01-30",
+      "textEn": "None of you truly believes until he loves for his brother what he loves for himself.",
+      "textAr": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه.",
+      "referenceEn": "Sahih al-Bukhari & Sahih Muslim",
+      "referenceAr": "صحيح البخاري وصحيح مسلم"
+    },
+    {
+      "date": "2026-01-31",
+      "textEn": "Allah is gentle and loves gentleness in all matters.",
+      "textAr": "إن الله رفيق يحب الرفق في الأمر كله.",
+      "referenceEn": "Sahih al-Bukhari & Sahih Muslim",
+      "referenceAr": "صحيح البخاري وصحيح مسلم"
+    },
+    {
+      "date": "2026-02-01",
+      "textEn": "The most beloved deeds to Allah are those done consistently, even if small.",
+      "textAr": "أحب الأعمال إلى الله أدومها وإن قل.",
+      "referenceEn": "Sahih al-Bukhari & Sahih Muslim",
+      "referenceAr": "صحيح البخاري وصحيح مسلم"
+    },
+    {
+      "date": "2026-02-02",
+      "textEn": "Whoever does not thank people has not thanked Allah.",
+      "textAr": "من لا يشكر الناس لا يشكر الله.",
+      "referenceEn": "Jami` at-Tirmidhi",
+      "referenceAr": "جامع الترمذي"
+    }
   ]
 }
